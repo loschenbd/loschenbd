@@ -31,7 +31,7 @@ That work pulled me deep into systems analysis, roadmap planning, requirements e
 ## What I'm building
 
 **[lmn.bar](https://lmn.bar)**  
-A near real time analytics product that brings together commerce, marketing, and operational data into one view, then layers in agentic recommendations so teams can act on what matters next.
+A DTC Shopify analytics platform that pulls together financials, marketing performance, and product data into one dashboard. Revenue, contribution margin, ad spend, and ROAS in one view, with an AI chat layer that lets you ask questions about your numbers and get answers without switching tabs.
 
 **[SmartLemon](https://smartlemon.io)**  
 Consulting, systems thinking, and internal tools for teams who need clearer reporting, better workflows, and fewer disconnected decisions.
