@@ -33,7 +33,7 @@ That work pulled me deep into systems analysis, roadmap planning, requirements e
 **[lmn.bar](https://lmn.bar)**  
 A near real time analytics product that brings together commerce, marketing, and operational data into one view, then layers in agentic recommendations so teams can act on what matters next.
 
-**SmartLemon[SmartLemon](https://smartlemon.io)**  
+**[SmartLemon](https://smartlemon.io)**  
 Consulting, systems thinking, and internal tools for teams who need clearer reporting, better workflows, and fewer disconnected decisions.
 
 **[mentalhygiene.net](https://mentalhygiene.net)**  
