@@ -33,11 +33,14 @@ That work pulled me deep into systems analysis, roadmap planning, requirements e
 **[lmn.bar](https://lmn.bar)**  
 A near real time analytics product that brings together commerce, marketing, and operational data into one view, then layers in agentic recommendations so teams can act on what matters next.
 
-**SmartLemon**  
+**SmartLemon[SmartLemon](https://smartlemon.io)**  
 Consulting, systems thinking, and internal tools for teams who need clearer reporting, better workflows, and fewer disconnected decisions.
 
 **[mentalhygiene.net](https://mentalhygiene.net)**  
-A small space for ideas, experiments, and notes on how we work, think, and build. Mostly an excuse to keep learning in public.
+A guided “buffet” of science backed mental hygiene practices. It turns research on depression and anxiety into simple, everyday habits across eight domains, then helps you assemble a plan that keeps your mind clear, steady, and a bit more joyful.
+
+**Gleam**  
+A small voice journaling app experiment. Speak your thoughts, get them transcribed, then use AI to surface themes, highlights, and next steps.
 
 **AI workflow products**  
 I build with LLMs, MCP servers, automation tooling, and modern product stacks to turn raw inputs into something useful. One recent example is a web and iOS app that turns audio into transcripts, themes, summaries, and action items.
