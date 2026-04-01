@@ -26,7 +26,7 @@ Now I'm advising scaling brands and building the tools I wished existed.
 
 ## Background
 
-- Co-founder, Flux Footwear (the company has since scaled to ~$50M/year)
+- Co-founder, Flux Footwear (the company has since scaled to ~$40M/year)
 - Delivery lead on a 100-person agile program for a Fortune 500 QSR brand
 - 9 years consulting at SmartLemon, working with scaling eComm brands
 - Building lmn.bar and Gleam now
