@@ -79,10 +79,10 @@ I trust data deeply. I just don't think dashboards get the final vote. Especiall
 
 ## Stack I work in
 
-`Product & delivery:` Product strategy, discovery, requirements engineering, systems analysis, roadmapping, agile delivery, scrum facilitation  
-`AI & automation:` OpenAI, Claude, MCP, agentic workflows, prompt design, workflow automation, Pipedream, Portkey  
-`App & data:` TypeScript, JavaScript, Next.js, React, Expo, Tamagui, Python, SQL, PostgreSQL, TRPC, Supabase, PowerSync  
-`Platforms & ops:` Shopify, Stripe, Meta Ads, Google Ads, Klaviyo, PostHog, Notion, Attio, Loops, Resend, Customer.io, Intercom, AWS, Vercel, DigitalOcean
+Product & delivery: `Product strategy` `Discovery` `Requirements engineering` `Systems analysis` `Roadmapping` `Agile delivery` `Scrum facilitation`  
+AI & automation: `OpenAI` `Claude` `MCP` `Agentic workflows` `Prompt design` `Workflow automation` `Pipedream` `Portkey`  
+App & data: `TypeScript` `JavaScript` `Next.js` `React` `Expo` `Tamagui` `Python` `SQL` `PostgreSQL` `TRPC` `Supabase` `PowerSync`  
+Platforms & ops: `Shopify` `Stripe` `Meta Ads` `Google Ads` `Klaviyo` `PostHog` `Notion` `Attio` `Loops` `Resend` `Customer.io` `Intercom` `AWS` `Vercel` `DigitalOcean`
 
 ---
 
