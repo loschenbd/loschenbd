@@ -32,7 +32,7 @@ At SmartLemon, I advise founders and early-stage teams on product strategy, syst
 
 At Flux Footwear, I co-built a bootstrapped DTC brand and learned firsthand what happens when tenacity, product, fulfillment, support, marketing, and finance all show up to the same party.
 
-I've also built custom systems for athletes, logistics teams, ecommerce brands, and internal operators who needed better visibility, cleaner workflows, and fewer spreadsheet scavenger hunts.
+I've also built custom systems for professional athletes, logistics teams, ecommerce brands, and internal operators who needed better visibility, cleaner workflows, and fewer spreadsheet scavenger hunts.
 
 ---
 
