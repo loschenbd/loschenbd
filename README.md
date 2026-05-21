@@ -50,6 +50,9 @@ A guided buffet of science-backed mental hygiene practices. It turns research on
 **Gleam**  
 A voice journaling experiment: speak your thoughts, get them transcribed, and use AI workflows to surface themes, highlights, next steps, and deeper reflection.
 
+**[Archi](https://archi.benjaminloschen.com)**  
+A local-first macOS app that pulls every Kindle highlight you've ever made into a searchable library on your machine, with optional one-click sync to Notion. Free and open source.
+
 **Other experiments**  
 I like building small, sharp tools with LLMs, MCP servers, workflow automation, and modern product stacks. Usually the pattern is the same: take a noisy workflow, make it calmer, then make it smarter.
 
