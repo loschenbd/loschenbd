@@ -38,6 +38,9 @@ I've also built custom systems for professional athletes, logistics teams, ecomm
 
 ## What I'm building
 
+**[Archi](https://archi.benjaminloschen.com)**  
+A local-first macOS app that pulls every Kindle highlight you've ever made into a searchable library on your machine, with optional one-click sync to Notion. Free and open source.
+
 **[lmn.bar](https://lmn.bar)**  
 A Shopify analytics platform for operators who want financials, marketing performance, and product data in one place. Revenue, contribution margin, ad spend, and ROAS in one view, with AI and agentic workflows that help turn raw performance data into better questions, sharper analysis, and next-best actions. The goal is not more reporting. It's better judgment.
 
@@ -49,9 +52,6 @@ A guided buffet of science-backed mental hygiene practices. It turns research on
 
 **Gleam**  
 A voice journaling experiment: speak your thoughts, get them transcribed, and use AI workflows to surface themes, highlights, next steps, and deeper reflection.
-
-**[Archi](https://archi.benjaminloschen.com)**  
-A local-first macOS app that pulls every Kindle highlight you've ever made into a searchable library on your machine, with optional one-click sync to Notion. Free and open source.
 
 **Other experiments**  
 I like building small, sharp tools with LLMs, MCP servers, workflow automation, and modern product stacks. Usually the pattern is the same: take a noisy workflow, make it calmer, then make it smarter.
