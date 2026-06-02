@@ -50,7 +50,7 @@ Consulting, systems thinking, and custom tooling for teams who need clearer repo
 **[mentalhygiene.net](https://mentalhygiene.net)**  
 A guided buffet of science-backed mental hygiene practices. It turns research on depression and anxiety into simple daily habits across eight domains, then helps people build a plan that keeps the mind clear, steady, and a bit more joyful. In products like this, the emotional reality of the person using it matters just as much as the flow chart.
 
-**Gleam**  
+**[Gleam](https://apps.apple.com/us/app/gleam-prophetic-words/id6499065045)**  
 A voice journaling experiment: speak your thoughts, get them transcribed, and use AI workflows to surface themes, highlights, next steps, and deeper reflection.
 
 **Other experiments**  
