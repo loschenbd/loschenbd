@@ -53,6 +53,9 @@ A guided buffet of science-backed mental hygiene practices. It turns research on
 **[Gleam](https://apps.apple.com/us/app/gleam-prophetic-words/id6499065045)**  
 A voice journaling experiment: speak your thoughts, get them transcribed, and use AI workflows to surface themes, highlights, next steps, and deeper reflection.
 
+**[imessage-history](https://github.com/loschenbd/imessage-history)**  
+A read-only, stdlib-only Python exporter that pulls one iMessage conversation off your Mac's `chat.db` and turns it into clean CSV, JSON, Markdown, and AI-ready text with explicit speaker attribution. Zero network calls, optional pseudonymization before pasting threads into a hosted LLM, and a Textual TUI for the times you'd rather click than remember flags. Open source.
+
 **Other experiments**  
 I like building small, sharp tools with LLMs, MCP servers, workflow automation, and modern product stacks. Usually the pattern is the same: take a noisy workflow, make it calmer, then make it smarter.
 
