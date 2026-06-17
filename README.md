@@ -56,6 +56,9 @@ A voice journaling experiment: speak your thoughts, get them transcribed, and us
 **[imessage-history](https://github.com/loschenbd/imessage-history)**  
 A read-only, stdlib-only Python exporter that pulls one iMessage conversation off your Mac's `chat.db` and turns it into clean CSV, JSON, Markdown, and AI-ready text with explicit speaker attribution. Zero network calls, optional pseudonymization before pasting threads into a hosted LLM, and a Textual TUI for the times you'd rather click than remember flags. Open source.
 
+**[tokentrail](https://github.com/loschenbd/tokentrail)**  
+A local-first TypeScript CLI that traces Claude Code token usage across branches, features, and pull requests. It reads the JSONL session logs Claude Code already writes to your Mac, attributes each session to a `(repo, branch)` pair, enriches with GitHub PR metadata when available, and rolls usage into a daily per-feature ledger you can actually reason about. Ships with a terminal report, a SwiftBar menu-bar widget for today's running spend, a local dashboard at `127.0.0.1:4920`, and optional Notion sync. One-shot `tokentrail init` wires up the menu-bar plugin, launchd daemon, Claude Code slash commands, and a Stop hook. Open source.
+
 **Other experiments**  
 I like building small, sharp tools with LLMs, MCP servers, workflow automation, and modern product stacks. Usually the pattern is the same: take a noisy workflow, make it calmer, then make it smarter.
 
