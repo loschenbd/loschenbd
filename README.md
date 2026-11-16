@@ -26,7 +26,7 @@ I've worked inside Fortune-scale delivery, bootstrapped brands, consulted with f
 
 ## Where I've done it
 
-At Artisan Studios, I helped lead product delivery on a 100+ person program serving 3,000+ locations, consolidating multiple legacy systems into a single operations platform for a major restaurant enterprise. I also delivered a customer concierge platform for a Fortune 100 rail logistics organization, translating complex supply chain workflows, stakeholder needs, and secure data requirements into a product that launched with zero critical defects.
+At Artisan Studios, I helped lead product delivery on a 100+ person program serving thousands of locations, consolidating multiple legacy systems into a single operations platform for a national restaurant brand. I also delivered a customer concierge platform for a Fortune 100 rail logistics organization, translating complex supply chain workflows, stakeholder needs, and secure data requirements into a product that launched with zero critical defects.
 
 At SmartLemon, I advise founders and early-stage teams on product strategy, systems design, and operational infrastructure, especially in the awkward but exciting phase between "we have momentum" and "this will break if we keep winging it."
 
